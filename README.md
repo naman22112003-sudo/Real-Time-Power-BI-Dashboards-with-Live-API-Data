@@ -35,3 +35,5 @@ This project focuses on building a **real-time interactive Power BI dashboard** 
 ### 🎯 Learning Outcomes
 
 This project enhanced my understanding of **real-time analytics**, **automated data pipelines**, and **modern BI reporting**, bridging raw API data with actionable business insights.
+<img width="920" height="718" alt="Screenshot 2026-01-07 121804" src="https://github.com/user-attachments/assets/ab71b11a-3c21-46ea-9622-77ba316b154e" />
+
